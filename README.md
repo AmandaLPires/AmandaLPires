@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&left=true&vLeft=true&width=500&height=70&duration=3000&lines=Hello+!+👋;+I'm+Amanda+Pires!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&left=true&vLeft=true&width=500&height=70&duration=3000&lines=Hello+World!+👋;+I'm+Amanda+Pires!;" />
 </h1>
 
 👩🏻‍💻 A passionate Data Analyst and Software Developer, currently living in Sweden<br/>
@@ -7,3 +7,6 @@
 💻 🌱 Trying to learn something new everyday<br/>
 👀 Follow me!<br/>
 
+ <a href="mailto:amanda.lopes.pires0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+ </a>
