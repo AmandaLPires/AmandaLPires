@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&left=true&vLeft=true&width=500&height=70&duration=3000&lines=Hello+World!+👋;+I'm+Amanda+Pires!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=FiraCode&size=27&left=true&vLeft=true&color=219E1BFF&width=500&height=70&duration=3000&lines=Hello+World!+👋+I'm+Amanda+Pires!;" />
 </h1>
 
 👩🏻‍💻 A passionate Data Analyst and Software Developer, currently living in Sweden<br/>
