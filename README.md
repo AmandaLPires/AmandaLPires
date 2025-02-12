@@ -3,7 +3,7 @@
 </h1>
 
 👩🏻‍💻 A passionate Data Analyst and Software Developer, currently living in Sweden<br/>
-❤️ I love everything about Quantum Computing and AI.
+❤️ I love everything about Quantum Computing and AI.<br/>
 💻 🌱 Trying to learn something new everyday<br/>
 👀 Follow me!<br/>
 
